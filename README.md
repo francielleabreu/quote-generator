@@ -10,9 +10,9 @@
     <h2>How to Run the Project</h2>
     <p>1. Clone the repository to your local machine:</p>
     <code>git clone https://github.com/your-username/quote-generator-html.git</code>
-    >h2>Start the server:</h2>
-    <p>`npm run start`</p>
-    <p>The server will run on `http://localhost:3000'</p>
+    <h2>Start the server:</h2>
+    <p>npm run start</p>
+    <p>The server will run on http://localhost:3000</p>
     <h2>Matrix Master</h2>
     <p>Matrix Master is a company based in Rotterdam, the Netherlands, that offers bootcamp and training in web development and technology. Learn more about the company at: <a href="https://matrixmaster.info/">https://matrixmaster.info/</a></p>
     <h2>Technologies Used</h2>
